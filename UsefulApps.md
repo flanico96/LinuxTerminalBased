@@ -11,7 +11,9 @@
 
 + Telegram
 
+##ciaomondo
 
+come stai
 ##Plugin particolari
 
 ###Per Linux-Mint
